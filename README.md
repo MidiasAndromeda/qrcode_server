@@ -1,1 +1,1 @@
-# qrcode_server
+# ffxivtk-server
